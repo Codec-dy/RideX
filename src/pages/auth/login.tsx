@@ -1,5 +1,4 @@
 import {useState} from 'react';
-import '@/styles/globals.css'
 import Link from 'next/link'
 import Buttonv2 from '@/components/Buttonv2'
 import Card from '@/components/Card'
