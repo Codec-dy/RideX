@@ -1,6 +1,5 @@
 import Footer from '@/components/Footer'
 import React from 'react'
-import '@/styles/globals.css'
 import Navbar from '@/components/Navbar';
 interface Layout1Props {
   children: React.ReactNode;
